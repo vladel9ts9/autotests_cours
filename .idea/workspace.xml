@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3748c726-c319-43e9-8728-a57bba211d18" name="Changes" comment="Add pytest and req">
-      <change afterPath="$PROJECT_DIR$/lessons/test_no_element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_asb.py" afterDir="false" />
+    <list default="true" id="3748c726-c319-43e9-8728-a57bba211d18" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/tests/test_abs_project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/unit_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_abs_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_abs_project.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/first_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/first_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/step_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/unit_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,22 +48,16 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests in test_abs_project.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in unit_test.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.first_test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_abs_project.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in test_abs_project.py.executor": "Run",
+    "Python tests.Python tests in unit_test.py.executor": "Run",
+    "Python.first_test.executor": "Run",
+    "Python.test_abs_project.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/tests" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
-  </component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -91,29 +82,11 @@
       <option name="project" value="LOCAL" />
       <updated>1715677288233</updated>
     </task>
-    <task id="LOCAL-00002" summary="Add unittests">
-      <option name="closed" value="true" />
-      <created>1715698661594</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1715698661594</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Add pytest and req">
-      <option name="closed" value="true" />
-      <created>1715759028207</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1715759028207</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <MESSAGE value="Add unittests" />
-    <MESSAGE value="Add pytest and req" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add pytest and req" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>

@@ -42,7 +42,7 @@ class TestReg(unittest.TestCase):
         welcome_text = welcome_text_elt.text
 
     # с помощью assert проверяем, что ожидаемый текст совпадает с текстом на странице сайта
-        self.assertEqual("Congratulations! You have successfully registered!", welcome_text, "Текст должен совпадать")
+        assert "Congratulations! You have successfully registered!" == welcome_text, "Текст должен совпадать"
 
     def test1_reg2(self):
         link = "http://suninjuly.github.io/registration2.html"
@@ -71,8 +71,7 @@ class TestReg(unittest.TestCase):
         welcome_text = welcome_text_elt.text
 
             # с помощью assert проверяем, что ожидаемый текст совпадает с текстом на странице сайта
-        self.assertEqual("Congratulations! You have successfully registered!", welcome_text,
-                             "Текст должен совпадать")
+        assert "Congratulations! You have successfully registered!" == welcome_text, "Текст должен совпадать"
 
 if __name__ == "__main__":
     unittest.main()

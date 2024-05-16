@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3748c726-c319-43e9-8728-a57bba211d18" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/tests/test_abs_project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/unit_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="3748c726-c319-43e9-8728-a57bba211d18" name="Changes" comment="Add lessons dir">
+      <change afterPath="$PROJECT_DIR$/imports/test_open_browser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/test_fixture1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/test_fixture5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/test_fixture_all.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_xfail.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/test_no_element.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/test_no_element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/first_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/first_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +55,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Python tests in test_abs_project.py.executor": "Run",
+    "Python tests.Python tests in test_fixture2.py.executor": "Run",
+    "Python tests.Python tests in test_no_element.py.executor": "Run",
+    "Python tests.Python tests in test_open_browser.py.executor": "Run",
     "Python tests.Python tests in unit_test.py.executor": "Run",
     "Python.first_test.executor": "Run",
     "Python.test_abs_project.executor": "Run",

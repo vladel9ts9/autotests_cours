@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3748c726-c319-43e9-8728-a57bba211d18" name="Changes" comment="Add lessons dir">
-      <change afterPath="$PROJECT_DIR$/imports/test_open_browser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/test_fixture1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/test_fixture5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/test_fixture_all.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_xfail.py" afterDir="false" />
+    <list default="true" id="3748c726-c319-43e9-8728-a57bba211d18" name="Changes" comment="Add fixture and mark">
+      <change afterPath="$PROJECT_DIR$/lessons/test_params.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registration/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registration/test_auth_step.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons/test_no_element.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/test_no_element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_abs_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_abs_project.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/first_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/first_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/unit_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +40,9 @@
     &quot;accountId&quot;: &quot;94e33c3e-44f2-4f31-bd34-c7f89d599601&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -55,6 +57,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Python tests in test_abs_project.py.executor": "Run",
+    "Python tests.Python tests in test_auth_step.py.executor": "Debug",
     "Python tests.Python tests in test_fixture2.py.executor": "Run",
     "Python tests.Python tests in test_no_element.py.executor": "Run",
     "Python tests.Python tests in test_open_browser.py.executor": "Run",
@@ -65,10 +68,15 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
       </set>
     </attachedChunks>
   </component>
@@ -89,11 +97,22 @@
       <option name="project" value="LOCAL" />
       <updated>1715677288233</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add fixture and mark">
+      <option name="closed" value="true" />
+      <created>1715867896655</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715867896655</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="Add lessons dir" />
+    <MESSAGE value="Add fixture and mark" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add fixture and mark" />
   </component>
 </project>
